@@ -1,49 +1,204 @@
-<h2>Hey there! I'm Luis Gómez</h2>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm on track for learning more about React, and Artificial Intelligence.\
-✉️ &nbsp;You can shoot me an email at luisgomez24g@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://luisgomezdev.vercel.app/) to see my CV and see more details about me.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
+<!-- <br>
+<br>
+<div align="center">
+    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
+</div>
+<br>
+<br> -->
+<h1 align="center">Hello 👋 I am Luis Gómez</strong> ✨ </h1>
 
 <p align="center">
-<a href="https://github.com/LuisGomez11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuisGomez11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisGomez11&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href="https://www.linkedin.com/in/UnProgramadorNace"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
+    <a href="https://www.facebook.com/people/Un-Programador-Nace/61552057605223/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@unprogramadornace" /></a>
+    <a href = "mailto:unprogramadornace@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unprogramadornace" /></a>
+  </p>
+<br>
+<h2 align="center">Sobre mi 😎🤏</h2>
+<!--Intro start-->
 
-<div>
-<a href="https://luisgomezdev.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-050505?style=for-the-badge&logoColor=white"/></a>
-<a href="mailto:luisgomez24g@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/luisgomezdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
+
+📝 Desarrollador de software, proactivo y autodidacta, además de Youtuber de tecnología.
+
+💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT
+
+📫 Contacto: **unprogramadornace@gmail.com**
+
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="center">
+  <h2>:star2: Front End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+  </a>
+
+  <h2>:zap: Back End</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+  </a>
+
+  <h2>:hammer: Devops</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,terraform&perline=12" />
+  </a>
+
+  <h2>:wrench: Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,gitlab,github,ubuntu&perline=6" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<br>
+
+<h2 align="left">Si quieres apoyarme 😻</h2>
+<p align="left">
+  <a href="https://paypal.me/unprogramadornace?country.x=CO&locale.x=es_XC" target="_blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="@unprogramadornace"/></a>
+</p>
+
+<br>
+<br>
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Tokens.png" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/wzGCBZCknUs" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-token-universe" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
+</td>
+
+<td width="25%" align="center">
+    <p align="center">
+        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank">
+          <img align="center" src="./Assets/Security.png" alt="@unprogramadornace"  />
+        </a>
+    </p> 
+    <p align="center">
+        <a href="https://youtu.be/IPWBQDMIYkc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-security-complete" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p> 
+</td>
+
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/t0D4OPcugyI" title="Go to Source">
+        <img align="center" width=100% src="./Assets/microservicios.jpg"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/t0D4OPcugyI" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-microservices-beginers" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/UbbyW5Z1lv8" title="Go to Source">
+        <img align="center" width=100% src="./Assets/kafka.jpg" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/UbbyW5Z1lv8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-apache-kafka" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
+
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/a3l1zmcNwjQ" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Validations.png" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/a3l1zmcNwjQ" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@UnProgramadorNace"  /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-validations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@UnProgramadorNace" /></a>
+    </p>       
+</td>
+
+<td width="25%" align="center">
+    <p align="center">
+        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank">
+          <img align="center" src="./Assets/Events.png" alt="@unprogramadornace"  />
+        </a>
+    </p> 
+    <p align="center">
+        <a href="https://youtu.be/i0ORMLNhLW8" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
+        <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-event-fundamentals" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p> 
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/UExwNGhEcZc" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Report.jpg"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/UExwNGhEcZc" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/spring-boot-jasper-report" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://youtu.be/6RQTsx_6wXo" title="Go to Source">
+        <img align="center" width=100% src="./Assets/Jpa.jpg" alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://youtu.be/6RQTsx_6wXo" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace"  /></a>
+      <a href="https://github.com/UnProgramadorNaceOfficial/JPA-relations" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unprogramadornace" /></a>
+    </p>       
+</td>
+</tr>
+</table>
+  </div>
+
+<!------------------------->
+
+<br/><br/>
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="60%" align="center">
+
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unprogramadornaceofficial&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UnProgramadorNaceOfficial&theme=dark&hide_border=false" /> 
+</td>
+
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/UnProgramadorNaceOfficial" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unprogramadornaceofficial&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
+<!--- trophy (start) -->
+
+</p>       
+<br/>
+<br/>
+<br/>
+<br/>
