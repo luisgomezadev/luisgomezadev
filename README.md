@@ -13,7 +13,7 @@
 <b>Front-End</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,angular,vue,npm,astro&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,angular,vue,vite,npm,astro,vscode&perline=6" />
   </a>
   </p>
 
