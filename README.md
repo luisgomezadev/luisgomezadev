@@ -1,10 +1,10 @@
 ![Header](/luisgomez-banner.png)
 
 <h1> Un poco de mi:</h1>
-<p>Mi nombre es Luis Gómez Arteaga, nacido en Colombia y soy Ingeniero de Sistemas con más de 4 años de experiencia como desarrollador FullStack. Especializado en el diseño, desarrollo y mantenimiento de aplicaciones web..</p>
+<p>Desarrollador Full-Stack con más de 5 años de experiencia en la creación de software robusto y escalable, especializado en el ecosistema Java (Spring Boot) y Angular / TypeScript. Experto en el diseño de aplicaciones bajo Clean Architecture y seguridad con JWT. Cuenta con sólida experiencia en SQL, despliegue con Docker y entrega continua bajo metodologías ágiles.</p>
 
 <h1>¿A qué me dedico actualmente?</h1>
-<p>Actualmente hago proyectos que me permitan seguir con mi formacion como programador, aprendiendo nuevas habilidades y aplicandolas de manera correcta🚀 </p>
+<p>Actualmente hago proyectos que me permitan seguir con mi formacion como programador, aprendiendo nuevas habilidades y aplicandolas de manera correcta </p>
 
 <h2>💻 Tech skills:</h2>
 
