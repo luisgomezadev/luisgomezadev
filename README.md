@@ -6,7 +6,7 @@
 <h1>¿A qué me dedico actualmente?</h1>
 <p>Actualmente hago proyectos que me permitan seguir con mi formacion como programador, aprendiendo nuevas habilidades y aplicandolas de manera correcta </p>
 
-<h2>💻 Tech skills:</h2>
+<h2>💻 Tecnologías:</h2>
 
 <b>Front-End</b>
 <p>
@@ -26,7 +26,7 @@
 <b>Dev-Ops</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,aws&perline=12" />
+    <img src="https://skillicons.dev/icons?i=jenkins,aws,docker&perline=12" />
   </a>
 <p/>
 
