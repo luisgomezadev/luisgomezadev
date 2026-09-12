@@ -1,4 +1,4 @@
-![Header](/luisgomez-banner.png)
+![Header](/luisgomez.png)
 
 <h1> Un poco de mi:</h1>
 <p>Desarrollador Full-Stack con más de 5 años de experiencia en la creación de software robusto y escalable, especializado en el ecosistema Java (Spring Boot) y Angular / TypeScript. Experto en el diseño de aplicaciones bajo Clean Architecture y seguridad con JWT. Cuenta con sólida experiencia en SQL, despliegue con Docker y entrega continua bajo metodologías ágiles.</p>
